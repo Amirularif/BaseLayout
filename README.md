@@ -5,7 +5,7 @@ This app allows the user to monitor the foods and ingredients that are stored in
 --------------------
 # Contributors
 
-This app is actually my project for Mobile programming class that i took last semester 03/22 - 06/22. I work with korean students.
+This app is actually my project for Mobile programming class that i took last semester 03/22 - 06/22. I work with korean students, so the app is in Korean.
 
 --------------------
 # IDE
