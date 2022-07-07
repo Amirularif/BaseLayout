@@ -9,6 +9,7 @@ This app is actually my project for Mobile programming class that i took last se
 # IDE
 
  Android Studio 
+ 
  Figma
  
 # Screenshot Preview
